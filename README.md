@@ -1,4 +1,4 @@
-# VigilDrive: Driver Drowsiness Detection
+# Wake-Watch: Driver Drowsiness Detection
 
 ## Description
 VigilDrive is a real-time safety application designed to monitor driver alertness and prevent accidents caused by fatigue. The system uses computer vision to detect if a driver's eyes remain closed for an unsafe duration.
